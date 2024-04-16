@@ -26,43 +26,43 @@ export const exploreWorlds = [
   },
 ];
 
-export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+export const startingFeatures = [  
+  'Finden SIe eine Welt, die zu Ihnen passt und in die Sie eintreten wollen',
+  'Betreten Sie die Welt, indem Sie die Basmalah lesen, um sicher zu sein',
+  'Kein Grund um den heißen Brei herumzureden, einfach Gas geben und Spaß haben',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Eine neue Welt',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Wir haben das neueste Update mit neuen Welten für Sie zum ausprobieren',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Realistischer',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Im neuesten Update sind deine Augen schmaler und machen die Welt realistischer als je zuvor',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Der Start des Metaverse macht Elon Moschus ketar-ketir',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 Tipps um die unendlichkeit des Metaverse zu meistern',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Mit einer Plattform können Sie die ganze Welt virtuell erkunden',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
