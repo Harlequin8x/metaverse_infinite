@@ -27,7 +27,7 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [  
-  'Finden SIe eine Welt, die zu Ihnen passt und in die Sie eintreten wollen',
+  'Finden Sie eine Welt, die zu Ihnen passt und in die Sie eintreten wollen',
   'Betreten Sie die Welt, indem Sie die Basmalah lesen, um sicher zu sein',
   'Kein Grund um den heißen Brei herumzureden, einfach Gas geben und Spaß haben',
 ];
@@ -50,13 +50,13 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'Der Start des Metaverse macht Elon Moschus ketar-ketir',
+    title: 'Der Start des Metaverse leutet ein neues Zeitalter ein',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 Tipps um die unendlichkeit des Metaverse zu meistern',
+    title: 'Wie man die unendlichkeit des Metaverse meistert',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
@@ -64,7 +64,7 @@ export const insights = [
     imgUrl: '/planet-08.png',
     title: 'Mit einer Plattform können Sie die ganze Welt virtuell erkunden',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Schließen Sie Ihr VR-Gerät an und tauchen Sie in eine neue Welt ein.',
   },
 ];
 
