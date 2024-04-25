@@ -1,4 +1,4 @@
-This is a metaverse themed website for working with animations and visuals. Links aren't working at the moment and will eventually be added in the future. 
+## This is a metaverse themed website for working with animations and visuals. Links aren't working at the moment and will eventually be added in the future. 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
