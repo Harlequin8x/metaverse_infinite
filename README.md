@@ -1,5 +1,5 @@
 ## This is a metaverse themed website for working with animations and visuals. Links aren't working at the moment and will eventually be added in the future. 
-
+<br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
